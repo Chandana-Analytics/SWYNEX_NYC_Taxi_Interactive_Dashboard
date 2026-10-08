@@ -1,6 +1,6 @@
-\# SWYNEX Technologies – Task 3
+# SWYNEX Technologies – Task 3
 
-\## NYC Yellow Taxi Interactive Dashboard
+## NYC Yellow Taxi Interactive Dashboard
 
 
 
@@ -12,61 +12,61 @@ The dashboard presents the key findings from Task 2 in an interactive format usi
 
 
 
-\## Tool Used
+## Tool Used
 
 
 
-\- Power BI
+- Power BI
 
 
 
-\## Dashboard KPIs
+## Dashboard KPIs
 
 
 
-\- Total Trips
+- Total Trips
 
-\- Median Trip Distance
+- Median Trip Distance
 
-\- Median Trip Duration
+- Median Trip Duration
 
-\- Average Total Amount
-
-
-
-\## Interactive Filters
+- Average Total Amount
 
 
 
-\- Date
-
-\- Weekday
-
-\- Pickup Hour
-
-\- Payment Type
+## Interactive Filters
 
 
 
-\## Dashboard Visuals
+- Date
+
+- Weekday
+
+- Pickup Hour
+
+- Payment Type
 
 
 
-1\. Trip Distance Distribution
-
-2\. Trips by Pickup Hour
-
-3\. Top 10 Pickup Zones
-
-4\. Trip Duration Distribution
-
-5\. Average Trips per Day by Weekday
-
-6\. Payment Type Distribution
+## Dashboard Visuals
 
 
 
-\## Objective
+1. Trip Distance Distribution
+
+2. Trips by Pickup Hour
+
+3. Top 10 Pickup Zones
+
+4. Trip Duration Distribution
+
+5. Average Trips per Day by Weekday
+
+6. Payment Type Distribution
+
+
+
+## Objective
 
 
 
@@ -74,13 +74,13 @@ To transform the analysis from Task 2 into an interactive Power BI dashboard tha
 
 
 
-\## Task Progression
+## Task Progression
 
 
 
-\- \*\*Task 1:\*\* Data Cleaning and Quality Assessment
+- **Task 1:** Data Cleaning and Quality Assessment
 
-\- \*\*Task 2:\*\* SQL Exploratory Data Analysis
+- **Task 2:** SQL Exploratory Data Analysis
 
-\- \*\*Task 3:\*\* Interactive Power BI Dashboard
+- **Task 3:** Interactive Power BI Dashboard
 
